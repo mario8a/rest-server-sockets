@@ -9,7 +9,7 @@ export class Usuario {
 
    constructor(id: string){
       this.id = id;
-      this.nombre = 'Sin nombre';
+      this.nombre = 'sin-nombre';
       this.sala = 'sin-sala';
    }
 }
